@@ -27,7 +27,7 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://github.com/claytog/FormFrame.git', :tag => s.version }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '14.0'
+  s.ios.deployment_target = '12.0'
 
   s.source_files = 'FormFrame/Classes/**/*'
   
