@@ -1,0 +1,16 @@
+PODS:
+  - FormFrame (0.1.0)
+
+DEPENDENCIES:
+  - FormFrame (from `../`)
+
+EXTERNAL SOURCES:
+  FormFrame:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FormFrame: dd17b470cfe1cb3efb62c4fdb30a5f588bb2a9ed
+
+PODFILE CHECKSUM: 4f57fd411d802f6cbcf828f0aa5966b8f79b81d1
+
+COCOAPODS: 1.7.5

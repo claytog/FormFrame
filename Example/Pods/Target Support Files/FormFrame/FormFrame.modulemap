@@ -1,0 +1,6 @@
+framework module FormFrame {
+  umbrella header "FormFrame-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_FormFrame_Example {
+  umbrella header "Pods-FormFrame_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
