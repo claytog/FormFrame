@@ -22,7 +22,7 @@ pod 'FormFrame'
 
 ## Author
 
-Clayton Gilbert, claytongilbert@gmail.com
+claytog (claytog@live.com.au)
 
 ## License
 
