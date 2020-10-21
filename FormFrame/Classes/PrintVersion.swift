@@ -8,17 +8,16 @@
 
 import Foundation
 
-class PrintVersion{
+public class PrintVersion{
     
-    init() {
+    public init() {
        
         printNumber()
     }
         
     
-    func printNumber(){
-        print("0.0.3")
+    private func printNumber(){
+        print("0.0.5")
     }
     
 }
-
