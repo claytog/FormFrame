@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FormFrame_Example' do
+  pod 'FormFrame', :path => '../'
+
+  target 'FormFrame_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
