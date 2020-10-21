@@ -17,7 +17,7 @@ FormFrame is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'FormFrame'
+pod 'FormFrame', :git => 'https://github.com/claytog/FormFrame.git', :tag => 'v0.0.3'
 ```
 
 ## Author
