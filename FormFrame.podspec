@@ -9,6 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'FormFrame'
   s.version          = '0.0.1'
+  s.swift_versions   = ['5.2']
   s.summary          = 'FormFrame is a unique library to render forms on the iOS device by configuring JSON files.'
 
 # This description is used to generate tags and improve search results.
